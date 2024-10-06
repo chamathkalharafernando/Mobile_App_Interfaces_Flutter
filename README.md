@@ -1,5 +1,3 @@
-# login_signup_flow_app
-
 A new Flutter project.
 
 ## Getting Started
